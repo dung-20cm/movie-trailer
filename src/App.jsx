@@ -69,7 +69,7 @@ function App() {
     })();
   }, []);
 
-  //console.log(trendingMovies);
+  console.log(trendingMovies, "trendingMovies");
 
   return (
     <>
